@@ -1,0 +1,21 @@
+{
+  "name": "ts-plugin-system",
+  "version": "1.0.0",
+  "description": "This repo contains modules to be able to build plugins in typescript and a library which allows you to dynamically load plugins into your application.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityarao2005/ts-plugin-system.git"
+  },
+  "author": "Aditya Rao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adityarao2005/ts-plugin-system/issues"
+  },
+  "homepage": "https://github.com/adityarao2005/ts-plugin-system#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
